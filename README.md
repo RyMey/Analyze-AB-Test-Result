@@ -27,11 +27,11 @@ For this project, we will be working to understand the results of an A/B test ru
 This part focus to find probability from tables.
 
 <a id='ab_test'></a>
-### Part II - A/B Test
+#### Part II - A/B Test
 
 This part I make some hypothesis and try to know is the hypothesis accepted or rejected.
 
 <a id='regression'></a>
-### Part III - A regression approach
+#### Part III - A regression approach
 
 In this part, I see that the result in Part II above can also be achieved by performing regression
