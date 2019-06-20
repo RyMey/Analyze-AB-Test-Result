@@ -2,6 +2,11 @@
 
 This project is to analyze A/B test which the problems provided by Udacity. I completed this project as part of Udacity Nanodegree Program in Data Analyst (https://www.udacity.com/course/data-analyst-nanodegree--nd002).
 
+Please open this result in:
+1. HTML Format: https://htmlpreview.github.io/?https://github.com/RyMey/Analyze-AB-Test-Result/blob/master/Analyze_ab_test_results_notebook.html
+<br> <b> or </b> <br>
+2. iPhython Format: https://github.com/RyMey/Analyze-AB-Test-Result/blob/master/Analyze_ab_test_results_notebook.ipynb
+
 ## Table of Contents
 - [Introduction](#intro)
 - [Part I - Probability](#probability)
